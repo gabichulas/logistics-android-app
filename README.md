@@ -1,1 +1,0 @@
-# logistics-android-app
